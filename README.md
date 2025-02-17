@@ -4,6 +4,7 @@ This project develops a circuit model for the human cardiovascular system.
 ## Description
 This project develops an electric circuit model in Matlab/Simulink to evaluate the pressure and flow in the human vessels. The model includes the electric circuit of the left ventricle in the heart and the main arteries; see Fig. 1 below. The code plots the pressure along a variety of vessel segments in the main arteries; see Fig. 2
 
+
 <figure>
     <p align="center">
         <img src="https://github.com/tkn-tub/frankenstein/blob/main/figures/simulink.png?raw=true" alt="electric circuit model of the human cardiovascular system" width="500">
@@ -26,7 +27,7 @@ Each vessel segment is modeled with an L-inverted topology which includes a resi
 
 <figure>
     <p align="center">
-        <img src="https://github.com/tkn-tub/frankenstein/blob/main/figures/vessel_electric.png?raw=true" alt="electric circuit model for the vessels" width="200">
+        <img src="https://github.com/tkn-tub/frankenstein/blob/main/figures/vessel_electric.png?raw=true" alt="electric circuit model for the vessels" width="250">
     </p>
 </figure>
 <p align="center">
