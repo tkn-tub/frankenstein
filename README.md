@@ -2,15 +2,15 @@
 This project develops a circuit model for the human cardiovascular system.
 
 ## Description
-This project develops an electric circuit model in Matlab/Simulink to evaluate the preassure and flow in the human vessels. The model includes the electric circuit of the left ventricle in the heart and the electric circuit of the main arteries; see Fig. 1 below.
+This project develops an electric circuit model in Matlab/Simulink to evaluate the preassure and flow in the human vessels. The model includes the electric circuit of the left ventricle in the heart and the the main arteries; see Fig. 1 below.
 
 <figure>
     <p align="center">
-        <img src="https://github.com/tkn-tub/NN_molecular_communications/blob/main/Figures/simulink.png?raw=true" alt="nn" width="500">
+        <img src="https://github.com/tkn-tub/frankenstein/blob/main/figures/simulink.png?raw=true" alt="electric circuit model of the human cardiovascular system" width="500">
     </p>
 </figure>
 <p align="center">
-Fig. 1: Representation of the electric circuit design in Simulink (Matlab).
+Fig. 1: Representation of the electric circuit design in Matlab/Simulink.
 </p>
 
 ## Installation
@@ -18,9 +18,10 @@ This code is tested in MATLAB 2023b, and the required toolboxes are listed in th
 
 | Matlab Toolbox  | Version |
 | ------------- | ------------- |
-| System Identification Toolbox  | 23.2  |
-| Deep Learning Toolbox  | 23.2  |
-|Statistics and Machine Learning Toolbox|23.2|
+| Symulink  | 23.2  |
+| Symulink Real-Time  | 23.2  |
+|Stateflow|23.2|
+|Econometrics Toolbox|23.2|
 
 ## Usage
 
@@ -32,7 +33,7 @@ This project directly runs from the file `A_Master_File.mlx`. This file calls to
 
 <figure>
     <p align="center">
-        <img src="https://github.com/tkn-tub/frankesntein/blob/main/Figures/heart.png?raw=true" alt="nn" width="500">
+        <img src="https://github.com/tkn-tub/frankesntein/blob/main/figures/heart.png?raw=true" alt="electric circuit model for the heart" width="500">
     </p>
 </figure>
 <p align="center">
